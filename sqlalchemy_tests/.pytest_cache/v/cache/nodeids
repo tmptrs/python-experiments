@@ -1,0 +1,6 @@
+[
+  "test_mocking.py::test_oc_call",
+  "test_mocking.py::test_oc_wrong_parameter[parameterized_fixture0]",
+  "test_mocking.py::test_oc_wrong_parameter[parameterized_fixture1]",
+  "test_mocking.py::test_mock_returns"
+]
